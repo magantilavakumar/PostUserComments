@@ -1,0 +1,112 @@
+2020-09-12 13:31:34.906  INFO 21680 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Starting PostUserCommentsApplication on DESKTOP-TPHENM6 with PID 21680 (C:\Lavakumar\worspace\java\spring\PostUserComments\target\classes started by magantilavakumar in C:\Lavakumar\worspace\java\spring\PostUserComments)
+2020-09-12 13:31:34.909  INFO 21680 --- [restartedMain] c.s.a.PostUserCommentsApplication        : No active profile set, falling back to default profiles: default
+2020-09-12 13:31:34.971  INFO 21680 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-12 13:31:34.972  INFO 21680 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-12 13:31:35.970  INFO 21680 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-09-12 13:31:35.982  INFO 21680 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 13:31:35.982  INFO 21680 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 13:31:36.063  INFO 21680 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 13:31:36.063  INFO 21680 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1091 ms
+2020-09-12 13:31:36.268  INFO 21680 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:31:36.437  INFO 21680 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-12 13:31:36.480  INFO 21680 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-12 13:31:36.491  INFO 21680 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Started PostUserCommentsApplication in 1.967 seconds (JVM running for 2.669)
+2020-09-12 13:32:01.058  INFO 21680 --- [http-nio-9090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-12 13:32:01.058  INFO 21680 --- [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-12 13:32:01.068  INFO 21680 --- [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2020-09-12 13:32:01.877  INFO 21680 --- [http-nio-9090-exec-2] c.s.a.c.PostUserCommentController        : name,id
+2020-09-12 13:35:34.997  INFO 21680 --- [http-nio-9090-exec-5] c.s.a.c.PostUserCommentController        : name,id
+2020-09-12 13:36:19.095  INFO 21680 --- [Thread-7] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:36:19.245  INFO 21680 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Starting PostUserCommentsApplication on DESKTOP-TPHENM6 with PID 21680 (C:\Lavakumar\worspace\java\spring\PostUserComments\target\classes started by magantilavakumar in C:\Lavakumar\worspace\java\spring\PostUserComments)
+2020-09-12 13:36:19.246  INFO 21680 --- [restartedMain] c.s.a.PostUserCommentsApplication        : No active profile set, falling back to default profiles: default
+2020-09-12 13:36:19.535  INFO 21680 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-09-12 13:36:19.536  INFO 21680 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 13:36:19.536  INFO 21680 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 13:36:19.576  INFO 21680 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 13:36:19.578  INFO 21680 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 328 ms
+2020-09-12 13:36:19.643  INFO 21680 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:36:19.725  INFO 21680 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-12 13:36:19.739  INFO 21680 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-12 13:36:19.746  INFO 21680 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Started PostUserCommentsApplication in 0.55 seconds (JVM running for 285.924)
+2020-09-12 13:36:19.749  INFO 21680 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-09-12 13:36:49.273  INFO 21680 --- [RMI TCP Connection(16)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-12 13:36:49.453  INFO 21680 --- [RMI TCP Connection(16)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:36:56.195  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Starting PostUserCommentsApplication on DESKTOP-TPHENM6 with PID 7356 (C:\Lavakumar\worspace\java\spring\PostUserComments\target\classes started by magantilavakumar in C:\Lavakumar\worspace\java\spring\PostUserComments)
+2020-09-12 13:36:56.198  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : No active profile set, falling back to default profiles: default
+2020-09-12 13:36:56.262  INFO 7356 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-12 13:36:56.262  INFO 7356 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-12 13:36:57.244  INFO 7356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-09-12 13:36:57.257  INFO 7356 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 13:36:57.258  INFO 7356 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 13:36:57.356  INFO 7356 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 13:36:57.357  INFO 7356 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1095 ms
+2020-09-12 13:36:57.569  INFO 7356 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:36:57.755  INFO 7356 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-12 13:36:57.801  INFO 7356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-12 13:36:57.814  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Started PostUserCommentsApplication in 1.999 seconds (JVM running for 2.807)
+2020-09-12 13:37:04.402  INFO 7356 --- [http-nio-9090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-12 13:37:04.402  INFO 7356 --- [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-12 13:37:04.411  INFO 7356 --- [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2020-09-12 13:37:05.232  INFO 7356 --- [http-nio-9090-exec-2] c.s.a.c.PostUserCommentController        : name,id
+2020-09-12 13:56:27.539  INFO 7356 --- [Thread-7] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:56:27.686  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Starting PostUserCommentsApplication on DESKTOP-TPHENM6 with PID 7356 (C:\Lavakumar\worspace\java\spring\PostUserComments\target\classes started by magantilavakumar in C:\Lavakumar\worspace\java\spring\PostUserComments)
+2020-09-12 13:56:27.686  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : No active profile set, falling back to default profiles: default
+2020-09-12 13:56:27.990  INFO 7356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-09-12 13:56:27.991  INFO 7356 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 13:56:27.991  INFO 7356 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 13:56:28.003  INFO 7356 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 13:56:28.003  INFO 7356 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 313 ms
+2020-09-12 13:56:28.060  INFO 7356 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:56:28.126  INFO 7356 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-12 13:56:28.139  INFO 7356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-12 13:56:28.146  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Started PostUserCommentsApplication in 0.512 seconds (JVM running for 1173.14)
+2020-09-12 13:56:28.150  INFO 7356 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-09-12 13:56:36.459  INFO 7356 --- [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-12 13:56:36.461  INFO 7356 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-12 13:56:36.482  INFO 7356 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 21 ms
+2020-09-12 13:56:36.603  INFO 7356 --- [http-nio-9090-exec-1] c.s.a.c.PostUserCommentController        : name,id
+2020-09-12 13:57:19.535  INFO 7356 --- [http-nio-9090-exec-3] c.s.a.c.PostUserCommentController        : name,id
+2020-09-12 13:58:14.823  INFO 7356 --- [Thread-14] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:58:15.053  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Starting PostUserCommentsApplication on DESKTOP-TPHENM6 with PID 7356 (C:\Lavakumar\worspace\java\spring\PostUserComments\target\classes started by magantilavakumar in C:\Lavakumar\worspace\java\spring\PostUserComments)
+2020-09-12 13:58:15.054  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : No active profile set, falling back to default profiles: default
+2020-09-12 13:58:15.387  INFO 7356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-09-12 13:58:15.388  INFO 7356 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 13:58:15.388  INFO 7356 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 13:58:15.405  INFO 7356 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 13:58:15.405  INFO 7356 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 346 ms
+2020-09-12 13:58:15.464  INFO 7356 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:58:15.535  INFO 7356 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-12 13:58:15.549  INFO 7356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-12 13:58:15.555  INFO 7356 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Started PostUserCommentsApplication in 0.56 seconds (JVM running for 1280.549)
+2020-09-12 13:58:15.559  INFO 7356 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-09-12 13:58:21.592  INFO 7356 --- [RMI TCP Connection(35)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-12 13:58:21.740  INFO 7356 --- [RMI TCP Connection(35)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:58:30.736  INFO 19636 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Starting PostUserCommentsApplication on DESKTOP-TPHENM6 with PID 19636 (C:\Lavakumar\worspace\java\spring\PostUserComments\target\classes started by magantilavakumar in C:\Lavakumar\worspace\java\spring\PostUserComments)
+2020-09-12 13:58:30.741  INFO 19636 --- [restartedMain] c.s.a.PostUserCommentsApplication        : No active profile set, falling back to default profiles: default
+2020-09-12 13:58:30.819  INFO 19636 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-12 13:58:30.820  INFO 19636 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-12 13:58:31.952  INFO 19636 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-09-12 13:58:31.966  INFO 19636 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 13:58:31.967  INFO 19636 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 13:58:32.093  INFO 19636 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 13:58:32.094  INFO 19636 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1274 ms
+2020-09-12 13:58:32.398  INFO 19636 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 13:58:32.606  INFO 19636 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-12 13:58:32.666  INFO 19636 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-12 13:58:32.681  INFO 19636 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Started PostUserCommentsApplication in 2.395 seconds (JVM running for 3.729)
+2020-09-12 14:04:50.525  INFO 19636 --- [RMI TCP Connection(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-12 14:04:50.695  INFO 19636 --- [RMI TCP Connection(15)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-12 14:05:21.085  INFO 16276 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Starting PostUserCommentsApplication on DESKTOP-TPHENM6 with PID 16276 (C:\Lavakumar\worspace\java\spring\PostUserComments\target\classes started by magantilavakumar in C:\Lavakumar\worspace\java\spring\PostUserComments)
+2020-09-12 14:05:21.091  INFO 16276 --- [restartedMain] c.s.a.PostUserCommentsApplication        : No active profile set, falling back to default profiles: default
+2020-09-12 14:05:21.168  INFO 16276 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-12 14:05:21.168  INFO 16276 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-12 14:05:22.201  INFO 16276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-09-12 14:05:22.213  INFO 16276 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 14:05:22.214  INFO 16276 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 14:05:22.303  INFO 16276 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 14:05:22.305  INFO 16276 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1137 ms
+2020-09-12 14:05:22.554  INFO 16276 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 14:05:22.756  INFO 16276 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-12 14:05:22.808  INFO 16276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-09-12 14:05:22.823  INFO 16276 --- [restartedMain] c.s.a.PostUserCommentsApplication        : Started PostUserCommentsApplication in 2.28 seconds (JVM running for 3.225)
+2020-09-12 14:13:13.503  INFO 16276 --- [Thread-7] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
